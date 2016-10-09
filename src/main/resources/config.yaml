@@ -1,0 +1,13 @@
+swagger:
+    host: localhost:8088
+    apiInfo:
+        title: api title
+        description: api description
+        serviceTerms: My Apps API terms of service
+        license: Apache License Version 2.0
+        licenseUrl: https://github.com/springfox/springfox/blob/master/LICENSE
+        version: version
+        contact:
+            name: leon
+            url: lza.bupt@gmail.com
+            email: lza.bupt@gmail.com
